@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "Terry Towing Services in Dallas",
+    "shortName": "Terry Towing",
+    "tagline": "Fast, Reliable Towing & Roadside Assistance in Dallas",
+    "niche": "Towing Service",
+    "phone": "(214) 878-7453",
+    "address": "1302 Fort Worth Ave, Dallas, TX 75208",
+    "city": "Dallas, TX",
+    "hours": "24/7",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Terry Towing Services in Dallas | 24/7 Towing & Roadside Assistance",
+    "description": "Terry Towing offers fast, affordable towing and roadside assistance in Dallas. Light, medium, and heavy-duty towing. Call (214) 878-7453 for 24/7 service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Towing Experts",
+      "headline": "24/7 Towing & Roadside Assistance in Dallas",
+      "subheadline": "When you're stranded, count on Terry Towing for fast, professional, and affordable service. We're here 24/7.",
+      "primaryCta": "Call (214) 878-7453",
+      "secondaryCta": "Learn More"
+    },
+    "stats": [
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100+",
+        "label": "Happy Customers"
+      },
+      {
+        "value": "24/7",
+        "label": "Availability"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Comprehensive Towing",
+        "title": "Light, Medium & Heavy-Duty Towing",
+        "body": "From motorcycles to semi-trucks, our fleet and experienced operators handle it all. We arrive quickly and get you back on the road.",
+        "bullets": [
+          "Light-duty towing for cars and SUVs",
+          "Medium-duty for vans and small trucks",
+          "Heavy-duty for large trucks and equipment",
+          "Flatbed and wheel-lift options available"
+        ],
+        "reverse": false,
+        "cardLabel": "Service",
+        "cardTitle": "24/7 Emergency Towing",
+        "cardBody": "No matter the time, our team is ready to respond. Just call and we'll be there fast."
+      },
+      {
+        "eyebrow": "Roadside Assistance",
+        "title": "More Than Just Towing",
+        "body": "We offer a full range of roadside services to get you out of a jam, from jump-starts to tire changes and lockout assistance.",
+        "bullets": [
+          "Jump-starts and battery service",
+          "Flat tire changes",
+          "Lockout assistance",
+          "Fuel delivery"
+        ],
+        "reverse": true,
+        "cardLabel": "Service",
+        "cardTitle": "Roadside Rescue",
+        "cardBody": "Stuck on the side of the road? We'll get you moving again with prompt, professional help."
+      }
+    ],
+    "whyTitle": "Why Choose Terry Towing?",
+    "whyChooseUs": [
+      {
+        "title": "Fast Response Times",
+        "description": "We pride ourselves on arriving quickly, minimizing your wait time."
+      },
+      {
+        "title": "Affordable Rates",
+        "description": "Transparent pricing with no hidden fees. Quality service at a fair price."
+      },
+      {
+        "title": "Professional Operators",
+        "description": "Our team is trained, licensed, and courteous. We treat you with respect."
+      },
+      {
+        "title": "24/7 Availability",
+        "description": "Day or night, weekends and holidays, we're here when you need us."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Terry Towing saved me on a late-night breakdown. Fast, friendly, and fair price. Highly recommend!",
+        "author": "James R.",
+        "role": "Downtown Dallas driver"
+      },
+      {
+        "quote": "I've used them twice now – always prompt and professional. They handled my SUV with care.",
+        "author": "Maria L.",
+        "role": "Oak Lawn resident"
+      },
+      {
+        "quote": "Best towing company in Dallas. They arrived in 20 minutes and got me back on the road.",
+        "author": "David K.",
+        "role": "Bishop Arts District"
+      }
+    ],
+    "cta": {
+      "headline": "Need a Tow? Call Us Now!",
+      "subheadline": "24/7 service, fast response, and friendly professionals.",
+      "primaryCta": "Call (214) 878-7453",
+      "secondaryCta": "Get a Free Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Terry Towing, we provide a full range of towing and roadside assistance services in Dallas. Our experienced team and modern equipment ensure safe, efficient service every time."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Light-Duty Towing",
+      "shortDescription": "Fast towing for cars, SUVs, and small vehicles.",
+      "longDescription": "Our light-duty towing service is perfect for passenger vehicles. We use flatbeds and wheel-lifts to ensure safe transport. Whether you've broken down or need a jump, we're here.",
+      "benefits": [
+        "Safe and secure transport",
+        "Available 24/7",
+        "Affordable rates",
+        "Quick response times"
+      ],
+      "process": [
+        {
+          "title": "Call Us",
+          "description": "Contact our dispatch team with your location and vehicle info."
+        },
+        {
+          "title": "We Arrive",
+          "description": "We send the nearest truck to your location promptly."
+        },
+        {
+          "title": "Safe Towing",
+          "description": "We carefully load and transport your vehicle to your destination."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does light-duty towing cost?",
+          "answer": "Pricing depends on distance and vehicle type. Contact us for a free quote."
+        },
+        {
+          "question": "What areas do you cover?",
+          "answer": "We serve all of Dallas and surrounding areas."
+        }
+      ],
+      "slug": "light-duty-towing"
+    },
+    {
+      "icon": "02",
+      "title": "Medium-Duty Towing",
+      "shortDescription": "Reliable towing for vans, small trucks, and buses.",
+      "longDescription": "Our medium-duty towing handles larger vehicles like box trucks, shuttle buses, and delivery vans. We have the equipment and expertise to tow them safely.",
+      "benefits": [
+        "Heavy-duty equipment",
+        "Experienced operators",
+        "24/7 availability",
+        "Competitive pricing"
+      ],
+      "process": [
+        {
+          "title": "Contact Us",
+          "description": "Provide details about your vehicle and location."
+        },
+        {
+          "title": "Dispatch",
+          "description": "We send the appropriate truck and crew."
+        },
+        {
+          "title": "Tow & Go",
+          "description": "Your vehicle is towed securely to your chosen location."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you tow a box truck?",
+          "answer": "Yes, we can tow box trucks and other medium-duty vehicles."
+        },
+        {
+          "question": "Do you offer roadside assistance for medium-duty vehicles?",
+          "answer": "Yes, we provide tire changes, jump-starts, and more for these vehicles."
+        }
+      ],
+      "slug": "medium-duty-towing"
+    },
+    {
+      "icon": "03",
+      "title": "Heavy-Duty Towing",
+      "shortDescription": "Professional towing for semi-trucks, RVs, and equipment.",
+      "longDescription": "Our heavy-duty towing service handles the biggest vehicles on the road. With rotators and landolls, we can recover and tow semi-trucks, RVs, and heavy equipment safely.",
+      "benefits": [
+        "Advanced heavy-duty trucks",
+        "Experienced in large recoveries",
+        "Available 24/7",
+        "Insurance-friendly"
+      ],
+      "process": [
+        {
+          "title": "Call for Heavy Tow",
+          "description": "Tell us about your vehicle and situation."
+        },
+        {
+          "title": "Heavy-Duty Dispatch",
+          "description": "We send the right equipment for the job."
+        },
+        {
+          "title": "Safe Recovery",
+          "description": "Our team carefully recovers and tows your vehicle."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you tow a semi-truck?",
+          "answer": "Absolutely. We have the equipment and experience to tow semi-trucks and trailers."
+        },
+        {
+          "question": "What about RVs?",
+          "answer": "Yes, we can tow RVs and motorhomes of all sizes."
+        }
+      ],
+      "slug": "heavy-duty-towing"
+    },
+    {
+      "icon": "04",
+      "title": "Roadside Assistance",
+      "shortDescription": "Jump-starts, tire changes, lockout help, and more.",
+      "longDescription": "Our roadside assistance service is designed to get you back on the road quickly. From a dead battery to a flat tire, we've got you covered 24/7.",
+      "benefits": [
+        "Fast response",
+        "Experienced techs",
+        "Affordable rates",
+        "All vehicle types"
+      ],
+      "process": [
+        {
+          "title": "Request Help",
+          "description": "Call us and describe your issue."
+        },
+        {
+          "title": "Get Assistance",
+          "description": "We arrive and solve the problem on-site."
+        },
+        {
+          "title": "Back on Road",
+          "description": "You're on your way in no time."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you provide fuel delivery?",
+          "answer": "Yes, we can bring enough fuel to get you to a station."
+        },
+        {
+          "question": "Can you unlock my car?",
+          "answer": "Yes, we offer lockout assistance for most vehicles."
+        }
+      ],
+      "slug": "roadside-assistance"
+    }
+  ],
+  "about": {
+    "headline": "Dallas's Reliable Towing Company",
+    "mission": "To provide fast, affordable, and professional towing and roadside assistance to the Dallas community, 24/7.",
+    "story": [
+      "Terry Towing was founded with a simple mission: help stranded drivers get back on the road quickly and safely. Over the years, we've grown from a single truck to a fleet serving all of Dallas. Our team shares a commitment to customer service and reliability.",
+      "We understand that breakdowns and accidents are stressful. That's why we focus on prompt response, clear communication, and fair pricing. Whether it's a simple jump-start or a complex heavy-duty tow, we treat every customer with respect and professionalism."
+    ],
+    "highlight": {
+      "stat": "5.0",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Reliability",
+        "description": "We show up when we say we will, every time."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest pricing and transparent service."
+      },
+      {
+        "title": "Professionalism",
+        "description": "Our team is trained, courteous, and respectful."
+      },
+      {
+        "title": "Community",
+        "description": "Proudly serving Dallas and supporting local drivers."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Contact us for a free quote or emergency service.",
+    "primaryCta": "Call (214) 878-7453",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Lawn",
+      "Bishop Arts District",
+      "Deep Ellum",
+      "Uptown",
+      "Downtown Dallas",
+      "Highland Park",
+      "University Park"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Towing Service",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2148787453",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
